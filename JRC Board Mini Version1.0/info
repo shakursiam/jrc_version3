@@ -1,0 +1,211 @@
+{
+  "uuid": "d55d3eb872c45232eae09025e7575093",
+  "path": "Offline/JRC%20Board%20Mini%20Version1.0",
+  "name": "JRC Board Mini Version1.0",
+  "content": "JRC Board Mini Version 1",
+  "created_at": "2023-12-06 11:54:01",
+  "updated_at": "2024-02-11 17:51:15",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "3d7f1a92023be270c889a4668ad66729",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "456ad7924a87437e80ea2eb4b7a2dc8a": 1,
+        "03c27e4ee8d94ab7b086f307fe083b36": 2,
+        "032f8fcb1416420c926f21b5cc4a2915": 1,
+        "62d49627e72c4897bc97a123bc594db9": 1,
+        "0b2e1952c8eb474193a61fb269157ce4": 1,
+        "5d587706d484466d93aba9b03794eec1": 1,
+        "6919e469598d4d81842710be2d272262": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "GPS-RECEIVER-NEO8M",
+          1,
+          "GPS-RECEIVER-NEO8M",
+          "1",
+          {
+            "Contributor": "plainolddave",
+            "spiceSymbolName": "GPS-RECEIVER-NEO8M",
+            "Manufacturer Part": "",
+            "puuid": "aea203039ee3407cb07b484413412f38",
+            "uuid": "0b2e1952c8eb474193a61fb269157ce4"
+          }
+        ],
+        [
+          "DL2",
+          1,
+          "CONNECTOR 6-PIN",
+          "C",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "colebenedicto",
+            "spiceSymbolName": "Connector 6-pin",
+            "puuid": "6fdd20c094864bb28fae553eb593e8f4",
+            "uuid": "032f8fcb1416420c926f21b5cc4a2915"
+          }
+        ],
+        [
+          "8-Pin Push Connector",
+          2,
+          "8-PIN PUSH CONNECTOR",
+          "DL1,DR2",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "madawson",
+            "spiceSymbolName": "8-Pin Push Connector",
+            "puuid": "9bccc87e38124b61981a6bc8af81f875",
+            "uuid": "03c27e4ee8d94ab7b086f307fe083b36"
+          }
+        ],
+        [
+          "X6511WV-10H-C30D60",
+          1,
+          "HDR-TH_10P-P2.54-V-M",
+          "DR1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C706882",
+            "Manufacturer": "XKB Connectivity(中国星坤)",
+            "Manufacturer Part": "X6511WV-10H-C30D60",
+            "Contributor": "nazim debieb",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "X6511WV-10H-C30D60",
+            "puuid": "23e4dcf249f1475cb43dab0ae27ff6d1",
+            "uuid": "62d49627e72c4897bc97a123bc594db9"
+          }
+        ],
+        [
+          "280520-2",
+          1,
+          "CONN-TH_12P-P2.54_280520-2",
+          "ES",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C306186",
+            "Manufacturer": "TE Connectivity(泰科电子)",
+            "Manufacturer Part": "280520-2",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "280520-2",
+            "puuid": "8c98ec2bb8b746a9ab8dd6f0ce978ee5",
+            "uuid": "6919e469598d4d81842710be2d272262"
+          }
+        ],
+        [
+          "ESP32",
+          1,
+          "ESP32WROOM32",
+          "U1",
+          {
+            "Manufacturer": "Espressif Systems",
+            "Manufacturer Part": "ESP32WROOM32",
+            "Supplier": "AG ELECTRONICA",
+            "Supplier Part": "ESP-WROOM-32",
+            "link": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://agelectronica.lat/pdfs/textos/E/ESP-WROOM-32.PDF",
+            "Contributor": "feroen",
+            "spiceSymbolName": "ESP32",
+            "puuid": "113e46cdd56d4512ba0a24f82f171a22",
+            "uuid": "5d587706d484466d93aba9b03794eec1"
+          }
+        ],
+        [
+          "LORA SX1278 COPY",
+          1,
+          "LORA SX1278 UPDATE",
+          "U3",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "vnrconnectindia",
+            "spiceSymbolName": "LORA SX1278 COPY",
+            "puuid": "a38a6e90ac444bdfbb37db8beda0f2d7",
+            "uuid": "456ad7924a87437e80ea2eb4b7a2dc8a"
+          }
+        ]
+      ],
+      "updateTime": 1707639992,
+      "createTime": 1701842042,
+      "histories": [],
+      "created_at": "2023-12-06 11:54:02",
+      "updated_at": "2024-02-11 14:26:32"
+    },
+    {
+      "uuid": "f0acc989386b194c331f043abb1341d6",
+      "puuid": "d55d3eb872c45232eae09025e7575093",
+      "title": "PCB_JRC Board Mini Version1.0",
+      "filename": "PCB_JRC Board Mini Version1.0.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a38a6e90ac444bdfbb37db8beda0f2d7": 1,
+        "aea203039ee3407cb07b484413412f38": 1,
+        "6fdd20c094864bb28fae553eb593e8f4": 1,
+        "9bccc87e38124b61981a6bc8af81f875": 2,
+        "23e4dcf249f1475cb43dab0ae27ff6d1": 1,
+        "8c98ec2bb8b746a9ab8dd6f0ce978ee5": 1,
+        "113e46cdd56d4512ba0a24f82f171a22": 1
+      },
+      "BOM": [],
+      "updateTime": 1707640703,
+      "createTime": 1707546049,
+      "histories": [],
+      "created_at": "2024-02-10 12:20:49",
+      "updated_at": "2024-02-11 14:38:23"
+    },
+    {
+      "uuid": "299b68634c4c9859ba32ddec09ddc8f4",
+      "puuid": "d55d3eb872c45232eae09025e7575093",
+      "title": "Order",
+      "filename": "Order.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "aea203039ee3407cb07b484413412f38": 1,
+        "9bccc87e38124b61981a6bc8af81f875": 1,
+        "23e4dcf249f1475cb43dab0ae27ff6d1": 1,
+        "8c98ec2bb8b746a9ab8dd6f0ce978ee5": 1,
+        "113e46cdd56d4512ba0a24f82f171a22": 1,
+        "a38a6e90ac444bdfbb37db8beda0f2d7": 1
+      },
+      "BOM": [],
+      "updateTime": 1707652275,
+      "createTime": 1707649127,
+      "histories": [],
+      "created_at": "2024-02-11 16:58:47",
+      "updated_at": "2024-02-11 17:51:15"
+    }
+  ],
+  "sort": [],
+  "title": "JRC Board Mini Version1.0",
+  "foldername": "JRC Board Mini Version1.0",
+  "schfilename": "JRC Board Mini Version1.0.json",
+  "schfilemtime": 1707639992190
+}

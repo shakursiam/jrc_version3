@@ -1,0 +1,19 @@
+# Ignore list for EasyEDA Projects
+# Temporary files
+*.000
+*.bak
+*.bck
+*.EasyEDA_pcb-bak
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.EasyEDA_pcb
+fp-info-cache
+# Netlist files (exported from Eeschema)
+*.net
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+*.zip

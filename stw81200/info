@@ -1,0 +1,59 @@
+{
+  "uuid": "369243a9deaf1879ce5fe52d3b079600",
+  "path": "Offline/stw81200",
+  "name": "stw81200",
+  "content": "",
+  "created_at": "2023-11-20 16:11:06",
+  "updated_at": "2023-11-20 17:02:08",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "d1484dcd5ba7def31811c0138fc34bd9",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c40154054c4a46b99d8129db08160a0e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "STW81200T",
+          1,
+          "VQFN-36_L6.0-W6.0-P0.50-BL-EP",
+          "U1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1527287",
+            "Manufacturer": "ST(意法半导体)",
+            "Manufacturer Part": "STW81200T",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C1527287&%26type=1&ref=editor",
+            "spiceSymbolName": "STW81200T",
+            "puuid": "26ade21029194d6f9ca41659935eb95e",
+            "uuid": "c40154054c4a46b99d8129db08160a0e"
+          }
+        ]
+      ],
+      "updateTime": 1700478128,
+      "createTime": 1700475067,
+      "histories": [],
+      "created_at": "2023-11-20 16:11:07",
+      "updated_at": "2023-11-20 17:02:08"
+    }
+  ],
+  "sort": [],
+  "title": "stw81200",
+  "foldername": "stw81200",
+  "schfilename": "stw81200.json",
+  "schfilemtime": 1700478128939
+}
