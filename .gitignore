@@ -1,15 +1,15 @@
-# Ignore list for EasyEDA Projects
+# Ignore list for KiCAD Projects
 # Temporary files
 *.000
 *.bak
 *.bck
-*.EasyEDA_pcb-bak
+*.Easy_EDA_pcb-bak
 *.sch-bak
 *~
 _autosave-*
 *.tmp
 *-save.pro
-*-save.EasyEDA_pcb
+*-save.Easy_EDA_pcb
 fp-info-cache
 # Netlist files (exported from Eeschema)
 *.net
